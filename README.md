@@ -1,20 +1,19 @@
 # Anto_AIML-Projects
-Machine Learning Project Repo
+**Machine Learning Project Repo**<br/>
 
-Repo Overview:
-This repo contains projects related to multiple Machine Learning Algorithms such as:
+Repo Overview<br/>
+This repo contains projects related to multiple Machine Learning Algorithms such as<br/>
+<br/>
+* Supervised learning - Regression, Classification<br/>
+* NLP<br/>
+* PCA<br/>
 
-Supervised learning - Regression, Classification
-NLP
-PCA
+About the projects<br/>
+All of these projects are real world problems with real world large datasets<br/>
 
-About the projects:
-All of these projects are real world problems with real world large datasets
-
-Project Contents:
-
-Data Import
-Data Cleaning
-Exploratory Data Analysis
-Model Building
-Model Evaluation
+Project Contents<br/>
+* Data Import<br/>
+* Data Cleaning<br/>
+* Exploratory Data Analysis<br/>
+* Model Building<br/>
+* Model Evaluation<br/>
